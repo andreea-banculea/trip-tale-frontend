@@ -1,0 +1,15 @@
+
+.review-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 6vh;
+}
+
+.review-card {
+  width: 80%;
+  max-width: 500px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
